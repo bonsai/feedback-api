@@ -1,0 +1,2 @@
+# Python reference client / local tooling
+requests>=2.32,<3
