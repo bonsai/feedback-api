@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/feedback.go": {
+      "runtime": "go1.x"
+    }
+  }
+}
